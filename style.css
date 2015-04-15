@@ -16,3 +16,10 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+
+/* Home */
+
+#home-header {
+  background-repeat: repeat;
+  background-size: contain;
+}
